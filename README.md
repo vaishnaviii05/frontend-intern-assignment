@@ -153,7 +153,7 @@ Password: Test@123
 
 ## 👨‍💻 Author
 
-Your Name  
+Vaishnavi Singh  
 Frontend Developer Intern Applicant
 
 ---
@@ -163,4 +163,5 @@ Frontend Developer Intern Applicant
 This project was built as part of a Frontend Developer Intern shortlisting assignment and demonstrates full-stack development, authentication flow, and frontend–backend integration.
 
 ## 📂 Project Structure
+
 
